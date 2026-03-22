@@ -12,10 +12,7 @@ A dynamic, multi-region **Sales Overview Dashboard** built in Power BI that trac
 
 > 📥 Download and open `Sales_Overview_Analysi.pbix` in **Power BI Desktop** to explore the full interactive report.
 >
-> *(Add a screenshot here by uploading an image to the repo and linking it below)*
-> ```
-> ![Dashboard Preview](./preview.png)
-> ```
+![Dashboard Preview](./preview.png)
 
 ---
 
